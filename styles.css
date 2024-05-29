@@ -1,0 +1,47 @@
+h1 {
+    font-weight:bold
+    }
+    
+    .constainer {
+        width: 100%;
+        overflow: hidden;
+    }
+    
+    .boldclass {
+        font-weight:bold
+    
+    }
+    
+    hr {
+        border: none;
+        height: 2px;
+        color: #333;
+        background-color: #333;  /* Modern Browsers */
+      }
+    
+      .button {
+        display: inline-block;
+        padding: 10px 20px;
+        background-color: #41a8d4;
+        color: white;
+        text-align: center;
+        text-decoration: none;
+        font-size: 16px;
+        margin: 4px 2px;
+        cursor: pointer;
+        border-radius: 8px;
+        box-shadow: 2px 2px 4px #333;
+        
+    
+    }
+    
+    body {
+        margin: 0; border:#333; border-width: 2px;
+        height: 70vh;
+        background: lightskyblue; 
+        background: -webkit-linear-gradient(lightskyblue, white);
+        background: -o-linear-gradient(lightskyblue,white);
+        background: -moz-linear-gradient(lightskyblue,white);
+        background: linear-gradient(lightskyblue,white);
+    
+    }
